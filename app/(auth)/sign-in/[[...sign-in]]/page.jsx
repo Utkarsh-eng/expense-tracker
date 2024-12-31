@@ -19,7 +19,7 @@ export default function Page() {
             
               <span className="flex gap-2">
               <h2 class="mt-5 text-2xl font-bold text-white sm:text-3xl md:text-4xl">
-                Welcome to Fintrack 
+                Welcome to Fintrack
               </h2>
               <Image src={'./logo.svg'}
               className="mt-2"

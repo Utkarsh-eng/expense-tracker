@@ -76,7 +76,7 @@ function Hero  ()  {
       <ul className="mt-8 flex justify-center gap-6 sm:mt-0 lg:justify-end">
         <li>
           <a
-            href="https://www.linkedin.com/in/sanyam-jain-229052250/"
+            href="https://www.linkedin.com/in/utkarsh-kumar-yadav-b2825b24a/"
             rel="noreferrer"
             target="_blank"
             className="text-gray-700 transition hover:opacity-75"
@@ -92,7 +92,7 @@ function Hero  ()  {
 
         <li>
           <a
-            href="https://www.instagram.com/sanyam2240/"
+            href="https://www.instagram.com/utkarsh_y93/"
             rel="noreferrer"
             target="_blank"
             className="text-gray-700 transition hover:opacity-75"
@@ -111,7 +111,7 @@ function Hero  ()  {
 
         <li>
           <a
-            href="https://x.com/Sanyam2240"
+            href="https://x.com/Utkarshkryadav"
             rel="noreferrer"
             target="_blank"
             className="text-gray-700 transition hover:opacity-75"
@@ -128,7 +128,7 @@ function Hero  ()  {
 
         <li>
           <a
-            href="https://github.com/Sanyam243"
+            href="https://github.com/Utkarsh-eng"
             rel="noreferrer"
             target="_blank"
             className="text-gray-700 transition hover:opacity-75"
